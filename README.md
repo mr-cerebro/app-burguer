@@ -1,4 +1,4 @@
-# app-burguer
+# Make Yur Burger
 
 ## Project setup
 ```
